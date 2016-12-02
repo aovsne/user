@@ -1,0 +1,44 @@
+body{
+	background:#e9ebee;
+}
+*{
+	font-family:sans-serif;
+}
+h2.head{
+	display:inline-block;
+	color:white;
+	margin-left:10%;
+	margin-top:10px;
+	font-size:40px;
+
+}
+form.login{
+	display:inline-block;
+	float:right;
+	margin-top:20px;
+	margin-right:15%;
+}
+input#username, input#password {
+	margin-right:20px;
+	border:1px solid black;
+
+
+}
+div.first{
+	background:#415e9b;
+}
+div.one{
+	text-align:center;
+	margin-top:10%;
+	background:#dddfe2;
+	height:300px;
+	border:1px white solid;
+	border-radius:10px;
+
+}
+input#newUsername, input#newPassword{
+	padding:5px 30px;
+	margin-bottom:30px;
+	border-radius:5px;
+	border:none;
+}
